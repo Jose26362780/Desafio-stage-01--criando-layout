@@ -1,0 +1,85 @@
+body {
+  margin: 8px;
+  font-family: 'JetBrains Mono';
+  font-size: 100%;
+  display: block;
+  background: #2c2b3d;
+  color: #ffffff;
+  text-decoration: none;
+  min-height: 100vh;
+}
+.page {
+  width: 1083px;
+  align-items: center;
+  margin: 0 auto;
+  padding-top: 70px;
+}
+
+nav {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 55px;
+}
+
+nav a {
+  color: #ffffff;
+  text-decoration: none;
+}
+
+ul {
+  gap: 48px;
+  display: flex;
+  color: #ffffff;
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+
+main {
+  display: flex;
+  justify-content: space-between;
+}
+.information {
+  margin-left: 80px;
+  text-align: center;
+}
+
+h1 {
+  color: #ffffff;
+}
+.fonte {
+  color: #c2c2c2;
+  font-family: 'Open Sans', sans-serif;
+}
+span {
+  color: #00bfa6;
+}
+p span {
+  font-weight: bold;
+}
+
+.cadeado {
+  position: absolute;
+  width: 50px;
+  height: 62px;
+  left: 20px;
+  top: 638px;
+}
+
+footer {
+  display: flex;
+  justify-content: center;
+  text-decoration: none;
+  color: #ffffff;
+  margin-top: 157px;
+}
+/* para colocar a linha é a propriedade border-top*/
+footer p {
+  padding: 27px 106px;
+  border-top: 3px solid #00bfa6;
+}
+footer a {
+  text-decoration: none;
+  color: #ffffff;
+}
