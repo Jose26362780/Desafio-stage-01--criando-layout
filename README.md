@@ -1,6 +1,6 @@
 #  Desafio Stage 01 
 
-![preview](./.github/desafio-%20stage01.png)
+![preview](./desafio-%20stage01.png)
 
 
 > Trilha Explorer 
