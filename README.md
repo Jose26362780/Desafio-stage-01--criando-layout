@@ -9,9 +9,6 @@ Projeto construido No stage 01 como desafio
 
 👉🏼[Clique aqui para accessar](https://jose26362780.github.io/Desafio-stage-01--criando-layout/)
 
-👉🏼[Clique aqui para accessar](https://desafio-01-recriando-layout.netlify.app/)
-
-
 
 ##  🔧 Tecnologias
 
@@ -20,7 +17,7 @@ Projeto construido No stage 01 como desafio
 - Css
 - Git e Github
 
-##  🖥️ O que aprendi Nessa edição da MARATONA EXPLORER
+##  🖥️ O que aprendi Nessa edição do PROGRAMA EXPLORER
 
 Trocar o fundo do layout assim como uma revisão dos conteudos usando a ferramenta figma 
 
